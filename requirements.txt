@@ -1,0 +1,8 @@
+Flask
+mlflow
+pandas
+scikit-learn
+cloudpickle
+numpy
+psutil
+scipy
